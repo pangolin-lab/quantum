@@ -7,4 +7,5 @@ What's it:
 
 https://github.com/breakwa11/GFWList2PAC
 
-
+systemctl stop firewalld.service
+systemctl disable firewalld.service
